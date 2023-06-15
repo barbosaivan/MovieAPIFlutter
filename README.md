@@ -1,7 +1,7 @@
 # MovieAPIFlutter
 Escenario practico consumo de API REST utlizando Flutter.
 
-# Dependendencias
+# Dependencias
 
 _http_
 
